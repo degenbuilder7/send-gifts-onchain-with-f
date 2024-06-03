@@ -1,0 +1,1 @@
+export const TRANSFER_CONTRACT_ADDRESS = '';
