@@ -9,7 +9,7 @@ import {
   import { NextApiRequest, NextApiResponse } from "next";
 import { ethers } from "ethers";
   
-  const contractAddress = "0x30cf421a3e8af92de191778b9d0ce04abfb426f1";
+  const contractAddress = "0x5a29EE8842E857fA19ed5C19E33b30a1cDa22B11"; // base sepolia contract address
   
   export default async function handler(
     req: NextApiRequest,
